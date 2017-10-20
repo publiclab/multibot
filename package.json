@@ -1,0 +1,9 @@
+{
+  "name": "multibot",
+  "version": "0.0.1",
+  "description": "A general-purpose Node.js bot library for writing interactive bot behaviors on various platforms",
+  "main": "src/index.js",
+  "repository": "git@github.com:publiclab/multibot.git",
+  "author": "Ujjwal Sharma <usharma1998@gmail.com>",
+  "license": "GPL-3.0"
+}
